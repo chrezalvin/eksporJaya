@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.39dae76a.css",
+    "main.js": "/static/js/main.b7d957d4.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/output.css.map": "/static/media/output.css.92ad9d4efb8225d20ed0.map",
+    "static/media/logoEJ.png": "/static/media/logoEJ.4bc755c149bd33bf7718.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.f2883296e5f8c40374f487bfc522416c.svg",
+    "static/media/instagram.svg": "/static/media/instagram.0dd482fa842bd7851f54ff91a01be94a.svg",
+    "static/media/twitter.svg": "/static/media/twitter.aedcb58ce5a258131a169832fdbd34dd.svg",
+    "static/media/facebook.svg": "/static/media/facebook.269ec09791a7fbaa6abd794da8f87347.svg",
+    "index.html": "/index.html",
+    "static/media/close.svg": "/static/media/close.d1b8f8fae1a50a478d1972b8b5253789.svg",
+    "main.39dae76a.css.map": "/static/css/main.39dae76a.css.map",
+    "main.b7d957d4.js.map": "/static/js/main.b7d957d4.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39dae76a.css",
+    "static/js/main.b7d957d4.js"
+  ]
+}
